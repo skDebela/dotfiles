@@ -1,0 +1,6 @@
+*docker-compose.local.yml
+*docker-compose.local.yaml
+.idea/
+
+
+**/.claude/settings.local.json
